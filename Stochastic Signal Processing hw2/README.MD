@@ -1,3 +1,6 @@
+Project title: Wiener Filtering & LMS Algorithm
+
+
 Project Overview
 
 This project involves two main tasks that focus on signal denoising and adaptive filtering. The tasks are designed to help understand the application of stochastic signal processing techniques, specifically the Wiener filter for denoising and the LMS algorithm for adaptive filter identification. The project is implemented in MATLAB™.
