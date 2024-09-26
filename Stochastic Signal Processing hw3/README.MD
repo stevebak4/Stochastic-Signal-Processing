@@ -33,7 +33,8 @@ Task 3: Voice Signal Denoising
     Objective: Denoise a corrupted voice signal y[n]y[n], which has been distorted by additive white noise, using a reference noise signal u[n]u[n].
     Approach:
         Load the dataset 3.mat, which contains the noisy voice signal y[n]y[n] and the reference noise signal u[n]u[n].
-        Implement a suitable denoising algorithm under the assumption that both noise signals originate from the same generator.
-        Use the sound(y) command to listen to the distorted voice signal before and after denoising.
+        Implement a suitable denoising algorithm under the assumption that both noise signals originate 
+        from the same generator. Use the sound(y) command to listen to the distorted voice signal before and after denoising.
         Analyze the results and discuss the effectiveness of the denoising approach.
-    Deliverables: MATLAB™ implementation of the denoising method, and a comparison of the noisy and denoised signals (including aural comparisons).
+    Deliverables: MATLAB™ implementation of the denoising method, and a comparison of the noisy and denoised 
+        signals (including aural comparisons).
