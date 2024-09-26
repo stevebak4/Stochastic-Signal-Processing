@@ -1,3 +1,6 @@
+Project title: Stochastic Signal Processing and Wireless Communication Analysis
+
+
 Project Overview
 
 This project focuses on the analysis and simulation of stochastic signals in wireless communication systems using MATLAB™. The project consists of five tasks that require deriving mathematical expressions and implementing MATLAB™ scripts to verify theoretical results through simulations. The tasks cover concepts such as probability density functions, channel capacity, and signal-to-noise ratio (SNR) in fading environments.
