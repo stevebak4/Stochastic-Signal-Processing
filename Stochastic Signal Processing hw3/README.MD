@@ -23,7 +23,8 @@ Task 2: System Identification of a Linear System
     Approach:
         Use the dataset 2.mat, which contains samples of the input and output signals.
         Implement a custom methodology to identify the system without using advanced built-in MATLAB™ functions, 
-        relying solely on basic vector/matrix operations. Propose and justify the selection of the system identification method used.
+        relying solely on basic vector/matrix operations. Propose and justify the selection 
+        of the system identification method used.
     Deliverables: MATLAB™ script showing the implementation of the system identification method, 
         along with results and explanations.
 
