@@ -1,4 +1,5 @@
-Project title: Wiener Filtering & LMS Algorithm
+Project title: Adaptive Filtering of Gaussian Noise Using Wiener Filter and the
+LMS Algorithm
 
 
 Project Overview
