@@ -20,7 +20,8 @@ Task 2: LMS Algorithm for Filter Identification
     unknown FIR filter that generated a filtered output y[n]y[n] from white noise input u[n]u[n].
     
     Approach:
-        Use the provided dataset 2.mat, which contains the signals y[n]y[n] (filtered output) and u[n]u[n] (white noise input).
-        Implement the LMS algorithm in MATLAB™ for filter orders p=2,3,4p=2,3,4 and experiment with two different step sizes for each order.
+        Use the provided dataset 2.mat, which contains the signals y[n]y[n] (filtered output) 
+        and u[n]u[n] (white noise input). Implement the LMS algorithm in MATLAB™ for filter 
+        orders p=2,3,4p=2,3,4 and experiment with two different step sizes for each order.
         Plot the convergence of the filter coefficients for each combination of filter order and step size.
     Deliverables: MATLAB™ plots showing the convergence behavior of the LMS filter coefficients.
