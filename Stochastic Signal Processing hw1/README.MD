@@ -28,7 +28,8 @@ Task 4: SNR in a Flat Fading Wireless System
 
 Task 5: Channel Capacity in Fading Channels
 
-    Using the result from Task 4 with m=1m=1, implement and plot the average channel capacity for SNR values from -5 dB to 20 dB.
+    Using the result from Task 4 with m=1m=1, implement and plot the average channel 
+    capacity for SNR values from -5 dB to 20 dB.
 
 Instructions
 
