@@ -30,7 +30,8 @@ Task 2: System Identification of a Linear System
 
 Task 3: Voice Signal Denoising
 
-    Objective: Denoise a corrupted voice signal y[n]y[n], which has been distorted by additive white noise, using a reference noise signal u[n]u[n].
+    Objective: Denoise a corrupted voice signal y[n]y[n], which has been distorted by additive white noise, 
+    using a reference noise signal u[n]u[n].
     Approach:
         Load the dataset 3.mat, which contains the noisy voice signal y[n]y[n] and the reference noise signal u[n]u[n].
         Implement a suitable denoising algorithm under the assumption that both noise signals originate 
