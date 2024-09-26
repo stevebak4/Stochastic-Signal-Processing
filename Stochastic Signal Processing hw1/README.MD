@@ -1,11 +1,14 @@
 Project Overview
 
 This project focuses on the analysis and simulation of stochastic signals in wireless communication systems using MATLAB™. The project consists of five tasks that require deriving mathematical expressions and implementing MATLAB™ scripts to verify theoretical results through simulations. The tasks cover concepts such as probability density functions, channel capacity, and signal-to-noise ratio (SNR) in fading environments.
+
 Tasks Breakdown
+
 Task 1: Probability Density Function (PDF) of |h|²
 
-    Derive the closed-form mathematical expression for the probability density function of the squared magnitude of the complex random variable hh.
-    Plot the PDF for σ2=0.5σ2=0.5 and m=2.5m=2.5 in MATLAB™.
+    Derive the closed-form mathematical expression for the probability density function of the 
+    squared magnitude of the complex random variable hh.Plot the PDF for σ2=0.5σ2=0.5 
+    and m=2.5m=2.5 in MATLAB™.
 
 Task 2: Empirical PDF of |h|²
 
